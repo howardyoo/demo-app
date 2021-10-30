@@ -103,7 +103,7 @@ cd payments; dotnet build
 ```
 - Build the Golang service: 
  ```console
- cd inventory; make
+ cd inventory; make build-linux
  ```
  ---
 
